@@ -1,0 +1,6 @@
+com\cg\Application.class
+com\cg\entity\Department.class
+com\cg\service\DepartmentService.class
+com\cg\controller\DepartmentController.class
+com\cg\dao\DepartmentDao.class
+com\cg\repository\DepartmentRepository.class

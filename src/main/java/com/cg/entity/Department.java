@@ -11,12 +11,10 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-
 @Entity
 public class Department {
 	
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long DepartmentId;
 	private String departmentName;
 	private String departmentAddress;
