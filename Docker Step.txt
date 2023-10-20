@@ -1,0 +1,41 @@
+1) String Springboot prf
+46330768DepartmentProject
+
+2) Add dependancy {web,jpa,portgres,lombook}
+
+3) follow pacakge dstructure {dao,model,controller,service,repository}
+
+4) Add docker files
+
+
+5) Publish to git hub repo(Initial publish/commit)
+
+6)Create entity class and push to git with message(Entity Class Commit)
+
+7)Repository Class and push to git with message(Repository Class Commit)
+
+8) Service Class and push to git wuth message(service Class Commit)
+
+9) Controller Class and push to git with message(Controller Class Commit)
+ 
+10)Using openJdk version 17
+
+11)Changed and added plugins in pom.xml.
+
+12)Create Dockerfile
+
+13)Created docker-compose.yml
+
+14)Do Adhoc tesing to Ensure Every thing working
+
+15)Take pull of Github repository in Docker Playground
+
+16)Create Docker Image using Docker Build Command
+
+17)Docker login
+
+18)Create Docker Repository in Docker Hub
+
+19)Tag Image with Docker Repository
+
+20)Push Image to  Docker Repository
